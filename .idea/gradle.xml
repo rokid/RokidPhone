@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bearkid" />
+            <option value="$PROJECT_DIR$/cloudprotocol" />
+            <option value="$PROJECT_DIR$/cloudservice" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/httpclient" />
+            <option value="$PROJECT_DIR$/logger" />
+            <option value="$PROJECT_DIR$/mainui" />
+            <option value="$PROJECT_DIR$/mediaservice" />
+            <option value="$PROJECT_DIR$/rkaudio" />
+            <option value="$PROJECT_DIR$/speechexec" />
+            <option value="$PROJECT_DIR$/tts" />
+            <option value="$PROJECT_DIR$/ttsservice" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

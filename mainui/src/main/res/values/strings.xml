@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rokid 语音服务Demo</string>
+    <string name="StartRecognize">开始识别</string>
+    <string name="StopRecognize">停止识别</string>
+    <string name="err">错误</string>
+    <string name="err_unauth">未认证成功</string>
+    <string name="err_conn_exceed">连接数超出</string>
+    <string name="err_res_exhausted">服务器资源不足</string>
+    <string name="err_svr_busy">服务器忙</string>
+    <string name="err_svr_internal">语音识别服务内部错误</string>
+    <string name="err_vad_timeout">语音识别服务vad超时</string>
+    <string name="err_svc_unavail">语音识别服务不可用</string>
+    <string name="err_sdk_closed">语音识别sdk已关闭</string>
+    <string name="err_req_timeout">语音识别请求超时</string>
+    <string name="err_unknown">未知错误</string>
+</resources>

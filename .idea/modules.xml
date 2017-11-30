@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RokidPhone.iml" filepath="$PROJECT_DIR$/RokidPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bearkid/bearkid.iml" filepath="$PROJECT_DIR$/bearkid/bearkid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudprotocol/cloudprotocol.iml" filepath="$PROJECT_DIR$/cloudprotocol/cloudprotocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudservice/cloudservice.iml" filepath="$PROJECT_DIR$/cloudservice/cloudservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainui/mainui.iml" filepath="$PROJECT_DIR$/mainui/mainui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaservice/mediaservice.iml" filepath="$PROJECT_DIR$/mediaservice/mediaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rkaudio/rkaudio.iml" filepath="$PROJECT_DIR$/rkaudio/rkaudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speechexec/speechexec.iml" filepath="$PROJECT_DIR$/speechexec/speechexec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tts/tts.iml" filepath="$PROJECT_DIR$/tts/tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsservice/ttsservice.iml" filepath="$PROJECT_DIR$/ttsservice/ttsservice.iml" />
+    </modules>
+  </component>
+</project>

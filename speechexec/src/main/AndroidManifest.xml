@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.rokid.speechexec">
+
+    <application
+        android:allowBackup="true">
+        <service
+            android:name="com.rokid.speechexec.SpeechExecutor"
+            android:process=":bearkid_executor">
+            <intent-filter>
+                <action android:name="com.rokid.voicerec.SpeechExecutor" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

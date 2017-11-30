@@ -1,0 +1,9 @@
+{
+	'host': 'apigwws.open.rokid.com',
+	'port': 443,
+	'branch': '/api',
+	'key': '6DDECE40ED024837AC9BDC4039DC3245',
+	'device_type_id': 'B16B2DFB5A004DCBAFD0C0291C211CE1',
+	'secret': 'F2A1FDC667A042F3A44E516282C3E1D7',
+	'device_id': 'smile001'
+}

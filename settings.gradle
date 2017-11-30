@@ -1,0 +1,3 @@
+include ':mainui', ':ttsservice', ':speechexec',':cloudservice',':mediaservice'
+include ':bearkid'
+include ':logger', ':rkaudio',':cloudprotocol', ':httpclient',':common', ':tts'
